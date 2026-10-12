@@ -49,21 +49,21 @@ Satellites photograph the whole planet every day, and most of that data is free 
 
 ## 🔭 Satellite Imagery Explorers
 
-11. **[Copernicus Browser](https://browser.dataspace.copernicus.eu)** — Sentinel-1/2/3/5P imagery with band combos and 3D (successor to EO Browser)🔑
+11. **[Copernicus Browser](https://browser.dataspace.copernicus.eu)** — Sentinel-1/2/3/5P imagery with band combos and 3D (successor to EO Browser)
 12. **[Google Earth Web](https://earth.google.com/web)** — The whole planet in 3D, in your browser
 13. **[Google Earth Timelapse](https://earthengine.google.com/timelapse)** — Watch decades of change anywhere on Earth
 14. **[Esri World Imagery Wayback](https://livingatlas.arcgis.com/wayback)** — Every past version of Esri's basemap imagery, side by side
 15. **[Esri Landsat Explorer](https://livingatlas.arcgis.com/landsatexplorer)** — 40+ years of Landsat with instant indices and change detection
 16. **[Esri Sentinel-2 Explorer](https://livingatlas.arcgis.com/sentinel2explorer)** — Sentinel-2 band combos and change detection, no setup
 17. **[Esri Sentinel-1 Explorer](https://livingatlas.arcgis.com/sentinel1explorer)** — Radar imagery that sees through clouds and night
-18. **[EOSDA LandViewer](https://eos.com/landviewer)** — Search, visualize and analyze free satellite scenes 🔑
-19. **[USGS EarthExplorer](https://earthexplorer.usgs.gov)** — The deep archive: Landsat, aerials, declassified spy imagery 🔑
-20. **[NASA Earthdata Search](https://search.earthdata.nasa.gov)** — Search across thousands of NASA Earth science datasets 🔑
-21. **[Earth Index](https://www.earthgenome.org/earth-index)** — AI similarity search: find mines, airstrips or farms by example 🔑
+18. **[EOSDA LandViewer](https://eos.com/landviewer)** — Search, visualize and analyze free satellite scenes 
+19. **[USGS EarthExplorer](https://earthexplorer.usgs.gov)** — The deep archive: Landsat, aerials, declassified spy imagery 
+20. **[NASA Earthdata Search](https://search.earthdata.nasa.gov)** — Search across thousands of NASA Earth science datasets 
+21. **[Earth Index](https://www.earthgenome.org/earth-index)** — AI similarity search: find mines, airstrips or farms by example 
 22. **[Space From Space](https://spacefromspace.com)** — Hundreds of declassified spy satellite images, georeferenced
 23. **[Soar](https://soar.earth)** — Crowd-sourced atlas of satellite, drone and historical maps
 24. **[OpenAerialMap](https://openaerialmap.org)** — Openly licensed drone and aerial imagery
-25. **[SkyFi](https://skyfi.com)** — Browse open data and order high-res commercial imagery 🔑
+25. **[SkyFi](https://skyfi.com)** — Browse open data and order high-res commercial imagery 
 26. **[Apollo Mapping Image Hunter](https://imagehunter.apollomapping.com)** — See what commercial imagery exists over any spot
 
 ## 🗂️ Open Earth Observation Data
@@ -73,12 +73,12 @@ Satellites photograph the whole planet every day, and most of that data is free 
 29. **[Registry of Open Data on AWS](https://registry.opendata.aws)** — Landsat, Sentinel, NAIP and commercial open data buckets
 30. **[Source Cooperative](https://source.coop)** — Community-shared geospatial datasets, cloud-native
 31. **[STAC Index](https://stacindex.org)** — Directory of every public STAC catalog
-32. **[Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu)** — Home of free Sentinel data, APIs and processing 🔑
+32. **[Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu)** — Home of free Sentinel data, APIs and processing 
 33. **[Vantor (Maxar) Open Data](https://vantor.com/company/open-data-program/)** — Very-high-res before/after imagery of disasters
 34. **[Umbra Open Data](https://umbra.space/open-data/)** — Free high-res SAR over 1,000+ locations
 35. **[Wyvern Open Data](https://opendata.wyvern.space)** — Hyperspectral satellite imagery, free to explore
-36. **[OpenTopography](https://opentopography.org)** — High-res lidar and global DEMs🔑
-37. **[Copernicus Climate Data Store](https://cds.climate.copernicus.eu)** — ERA5 reanalysis and decades of climate data 🔑
+36. **[OpenTopography](https://opentopography.org)** — High-res lidar and global DEMs
+37. **[Copernicus Climate Data Store](https://cds.climate.copernicus.eu)** — ERA5 reanalysis and decades of climate data 
 38. **[Copernicus Marine MyOcean Viewer](https://data.marine.copernicus.eu/viewer)** — 3D ocean temperature, currents and chlorophyll
 
 ## 🌳 Planet Monitors
@@ -133,7 +133,7 @@ Satellites photograph the whole planet every day, and most of that data is free 
 74. **[geojson.io](https://geojson.io)** — Draw and edit GeoJSON instantly
 75. **[Mapshaper](https://mapshaper.org)** — Simplify, clip and convert shapefiles in the browser
 76. **[kepler.gl](https://kepler.gl/demo)** — Drop in millions of points and get gorgeous maps
-77. **[Felt](https://felt.com)** — Collaborative web mapping 🔑
+77. **[Felt](https://felt.com)** — Collaborative web mapping 
 78. **[uMap](https://umap.openstreetmap.fr)** — Make and share custom OSM maps
 79. **[Maputnik](https://maplibre.org/maputnik/)** — Visual editor for vector tile map styles
 80. **[EPSG.io](https://epsg.io)** — Look up and transform any coordinate system
