@@ -2,7 +2,7 @@
 
 # 🔭 Awesome Earth Explorer
 
-**A curated list of 100 browser-based GIS & Earth observation platforms. Explore, monitor, map.**
+**100 GIS & remote sensing websites you can lose hours in — live satellites, planet monitors, open imagery, time-machine maps, and browser GIS tools. No installs, just a browser.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Platforms](https://img.shields.io/badge/platforms-100-2ea44f)
