@@ -9,19 +9,12 @@
 ![License: CC0](https://img.shields.io/badge/license-CC0--1.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
-*Live satellites · Open imagery · Planet monitors · Historic maps · Browser GIS tools*
 
 </div>
 
 ---
 
 Satellites photograph the whole planet every day, and most of that data is free to explore if you know where to look. This list collects 100 of the best websites for doing exactly that, right in your browser with nothing to install.
-
-It's for GIS analysts, remote sensing students, researchers, journalists, OSINT investigators, and anyone who enjoys getting lost in maps.
-
-**Legend:** 🆓 = no login needed · 🔑 = free account needed for full use
-
-*Last checked: October 2026. Links change, so please open an issue or PR if you spot a broken one.*
 
 ---
 
@@ -175,17 +168,6 @@ It's for GIS analysts, remote sensing students, researchers, journalists, OSINT 
 100. **[GeoGuessr](https://www.geoguessr.com)** — Guess where you are from street view; trains your geo-eye 🔑
 
 ---
-
-## Contributing
-
-Know a geospatial rabbit hole we missed? Open a PR. Good additions:
-
-- Run in a web browser (no installs)
-- Free to explore, at least partly
-- Centered on GIS, mapping, satellites or Earth observation
-- Make you lose track of time
-
-Please keep descriptions to one line and mark 🔑 if an account is needed.
 
 ## License
 
